@@ -1,7 +1,7 @@
 class Chick implements Animal {     
      private String myType;     
      private String mySound;      
-     public Chick(String type, String sound)     {         
+     public Chick(String type, String sound, String sound1)     {         
          myType = type;         
          mySound = sound;     
      }     
