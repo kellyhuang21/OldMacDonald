@@ -8,7 +8,7 @@ class Chick implements Animal {
          mySound1 = sound1;
      }     
      public Chick()     {         
-         myType = "Chicks";         
+         myType = "unknown";         
          mySound = "unknown";   
          mySound1 = "unknown"; 
      }      
